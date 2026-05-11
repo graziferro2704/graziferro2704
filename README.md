@@ -12,7 +12,6 @@
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
-- <img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Flogo-javascript-blue%3Flogo%3Djavascript%26logoColor%3Df5f5f5" alt="logo-js">
 
 <br>
 <br>
